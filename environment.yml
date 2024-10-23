@@ -1,0 +1,10 @@
+name: jax-mahrt-pan
+
+channels:
+ - defaults
+ - conda-forge
+
+dependencies:
+  - python=3.10
+  - jax=0.4.35
+  - numpy=2.1.2
